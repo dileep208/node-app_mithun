@@ -22,7 +22,7 @@
     "sonarqube-scanner": "^2.7.0"
   },
   "engines": {
-    "node": "v17.1.x"
+    "node": "= v16.x"
   },
   "repository": {
     "type": "git",
